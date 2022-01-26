@@ -7,5 +7,5 @@ class Product(models.Model):
     minimum_age_appropriate = models.IntegerField(default=0, blank=False)
     maximum_age_appropriate = models.IntegerField(default=-1, blank=False)
 
-    def __str__(self)
+    def __str__(self):
         return f"Product {self.name}, price {self.price:.02f}"
