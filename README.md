@@ -1,4 +1,4 @@
-# COSC140 homework 6
+# COSC140 homework 4
 
 ## Homework feedback
 
